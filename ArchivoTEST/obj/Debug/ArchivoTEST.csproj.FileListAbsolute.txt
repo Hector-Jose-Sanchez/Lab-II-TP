@@ -1,0 +1,10 @@
+C:\Form\ArchivoTEST\bin\Debug\ArchivoTEST.exe.config
+C:\Form\ArchivoTEST\bin\Debug\ArchivoTEST.exe
+C:\Form\ArchivoTEST\bin\Debug\ArchivoTEST.pdb
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.csproj.AssemblyReference.cache
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.Form1.resources
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.Properties.Resources.resources
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.csproj.GenerateResource.cache
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.csproj.CoreCompileInputs.cache
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.exe
+C:\Form\ArchivoTEST\obj\Debug\ArchivoTEST.pdb
